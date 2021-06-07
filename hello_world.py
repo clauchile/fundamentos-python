@@ -18,7 +18,4 @@ print (f"Me encanta comer {fave_food1} y {fave_food2}.") # con una cadena f
 
 # Almacena 2 de tus comidas favoritas en variables y luego úsalas para imprimir la cadena 
 # "Me encanta comer {{food_one}} y {{food_two}}". con cadenas f (# 4b)
-fave_food1 = "hamburgesas"
-fave_food2 = "pizza"
-
-print (f"Me encanta comer {fave_food1} y {fave_food2}.") # con una cadena f
+ 321|7
